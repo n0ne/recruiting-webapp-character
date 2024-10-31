@@ -10,7 +10,7 @@ const Container = styled.div`
   padding: 10px;
   margin: 10px;
   border-radius: 5px;
-  width: 350px;
+  width: 550px;
   position: relative;
 `;
 
