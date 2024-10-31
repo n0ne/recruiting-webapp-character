@@ -57,3 +57,7 @@ export const SKILL_LIST = [
     { name: 'Survival', attributeModifier: 'Wisdom' },
 
 ]
+
+export function getSkillList() {
+  return SKILL_LIST.map((skill) => skill.name);
+}
